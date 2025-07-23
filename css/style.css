@@ -1,0 +1,38 @@
+.netx{
+    padding: 10px;
+    background-color: blueviolet;
+    color: whitesmoke;
+
+}
+.netx1{
+    padding: 10px;
+    background-color: brown;
+    color: whitesmoke;
+    
+}
+.netx2{
+    padding: 10px;
+    background-color: blue;
+    color: whitesmoke;
+    
+}
+.netx1100{
+    text-align: center;
+}
+.highlight{
+    text-transform: uppercase;
+    background-color: gold;
+}
+p .me{
+    text-align: center;
+}
+nav a{
+    font-size: 32px;
+
+}
+.email{
+    color: green;
+}
+.youtube{
+    color: red;
+}
